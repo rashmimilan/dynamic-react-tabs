@@ -1,0 +1,29 @@
+#General css
+table{
+ font-family: "Tahoma";
+  background-color: white;
+  width: 80%;
+}
+th{
+   font-family: "Tahoma";
+  background-color: rgb(159, 178, 228);
+}
+tr{
+  background-color: darkslateblue
+}
+
+td:nth-child(even) {background-color: #f2f2f2;}
+
+td:nth-child(odd) {background-color: silver;}
+
+td, p{
+   font-family: "Tahoma";
+}
+
+.class_blue{
+  color: blue
+}
+
+.class_red{
+  color: red
+}
